@@ -1,0 +1,615 @@
+{
+    "success": true,
+    "message": "Position processed successfully",
+    "result": [
+        {
+            "_name": "parsedPosition",
+            "_value": [
+                {
+                    "_name": "ProfileDescription",
+                    "_value": "\n   \nAbility to investigate and provide expertise on queries performance in Production Oracle based BD as well as in testing environments.\n\nBachelor / B.Sc. in computer science or equivalent\n\n7-8 years' experience as Oracle DBA and SQL knowledge in a SW company\nSignificant experience and solid knowledge of RDBMS\nExperience with UNIX or UNIX variants and scripting\n\nRelevant Database Certifications are required.\nExperience in operating within a complex, multi-interface environment.\n\n\n  "
+                },
+                {
+                    "_name": "JobDescription",
+                    "_value": "\n   Role Description\n\nResponsibility of maintaining and supporting Oracle based Databases. Including Production, Performance and Testing environments.\nSupporting end to end life cycle of product from database perspective.\nHelp with modernizing DB architecture and maintenance to implement new DB technologies, such as Liquibase, NoSQL DBs, while making it possible to take on increasingly complex business requirements.\n\nKey responsibilities\n\nProvide high level of expertise and problem solving services to all stakeholders during project lifecycle (from Development till post production) by clarifying and addressing permanent and efficient solutions to complex and unusual problems\nDesign, development, configuration and administration of large and critical database system. Experienced in both Oracle 12C and NoSQL database technologies like Casandra, Mongo DB.\nAnalyze, enhance database configuration and ensure full availability, high performance and improve highly complex code where conventional approaches do not help, requiring high analytical capabilities and broad and extensive knowledge\nDesign strategy for DB working processes (e.g. backup & recovery) during project life cycle and translate and guide until implementation\nProvide guidance and coaching to project management and development teams ,implementation groups as well as customer architects - internal and externalAmdocs customers, including stakeholders who lack technical DB expertise.\nAlso you understand the business requirements around the DB Architecture and be actively involved in evolving it as per the latest business needs. Identify automation and efficiency opportunities, lead and direct the solution creation and implementation, and assure standards (new and existing processes and initiate enhanced changes).Manage and lead Root Cause Analysis, Lesson Learned and prevention processes to meet high standard of deliverables and work according to company methodology\n Review code/scripts/plans, meet KPIs ad SLA, plan vs. Actual comparisons and LL/RCAs.\nProduction support of the application from DB perspective, working in DevOps model within the team to troubleshoot issues related to logical business flow or performance or outages.\nAll you need is...\n\n\n  "
+                },
+                {
+                    "_name": "lang",
+                    "_value": "EN"
+                },
+                {
+                    "_name": "PostingOrgIndustry",
+                    "_value": [
+                        {
+                            "_name": "Description",
+                            "_value": "solving services"
+                        }
+                    ]
+                },
+                {
+                    "_name": "src",
+                    "_value": "DAXTRA-JOX schema:1.0.4 release:0.19.0.62413 rdate:2019-05-10"
+                },
+                {
+                    "_name": "PositionLocation",
+                    "_value": [
+                        {
+                            "_name": "LocationTown",
+                            "_value": "Seattle"
+                        },
+                        {
+                            "_name": "LocationText",
+                            "_value": "Seattle"
+                        },
+                        {
+                            "_name": "LocationCountry",
+                            "_value": "US"
+                        }
+                    ]
+                },
+                {
+                    "_name": "PositionTitle",
+                    "_value": "DB Specialist"
+                },
+                {
+                    "_name": "PositionCategory",
+                    "_value": [
+                        [
+                            {
+                                "_name": "Code",
+                                "_value": "it"
+                            },
+                            {
+                                "_name": "type",
+                                "_value": "primary"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "_name": "DegreeType",
+                    "_value": "bachelors"
+                },
+                {
+                    "_name": "PositionDescription",
+                    "_value": "\n   DB Specialist - Bothell/Seattle\n\nRole Description\n\nResponsibility of maintaining and supporting Oracle based Databases. Including Production, Performance and Testing environments.\nSupporting end to end life cycle of product from database perspective.\nHelp with modernizing DB architecture and maintenance to implement new DB technologies, such as Liquibase, NoSQL DBs, while making it possible to take on increasingly complex business requirements.\nAbility to investigate and provide expertise on queries performance in Production Oracle based BD as well as in testing environments.\n\nKey responsibilities\n\nProvide high level of expertise and problem solving services to all stakeholders during project lifecycle (from Development till post production) by clarifying and addressing permanent and efficient solutions to complex and unusual problems\nDesign, development, configuration and administration of large and critical database system. Experienced in both Oracle 12C and NoSQL database technologies like Casandra, Mongo DB.\nAnalyze, enhance database configuration and ensure full availability, high performance and improve highly complex code where conventional approaches do not help, requiring high analytical capabilities and broad and extensive knowledge\nDesign strategy for DB working processes (e.g. backup & recovery) during project life cycle and translate and guide until implementation\nProvide guidance and coaching to project management and development teams ,implementation groups as well as customer architects - internal and externalAmdocs customers, including stakeholders who lack technical DB expertise.\nAlso you understand the business requirements around the DB Architecture and be actively involved in evolving it as per the latest business needs. Identify automation and efficiency opportunities, lead and direct the solution creation and implementation, and assure standards (new and existing processes and initiate enhanced changes).Manage and lead Root Cause Analysis, Lesson Learned and prevention processes to meet high standard of deliverables and work according to company methodology\n Review code/scripts/plans, meet KPIs ad SLA, plan vs. Actual comparisons and LL/RCAs.\nProduction support of the application from DB perspective, working in DevOps model within the team to troubleshoot issues related to logical business flow or performance or outages.\nAll you need is...\n\nBachelor / B.Sc. in computer science or equivalent\n\n7-8 years' experience as Oracle DBA and SQL knowledge in a SW company\nSignificant experience and solid knowledge of RDBMS\nExperience with UNIX or UNIX variants and scripting\n\nRelevant Database Certifications are required.\nExperience in operating within a complex, multi-interface environment.\n\n  "
+                },
+                {
+                    "_name": "Competency",
+                    "_value": [
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Oracle"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Oracle"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Liquibase"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Liquibase"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "NoSQL"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "NoSQL"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Oracle 12c"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Oracle 12c"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "MongoDB"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "MongoDB"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Backup & Recovery"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Backup & Recovery",
+                                    "backup & recovery"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Root Cause Analysis"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Root Cause Analysis"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillProficiency",
+                                "_value": "GOOD"
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "DevOps"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "DevOps",
+                                    "working in DevOps"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillProficiency",
+                                "_value": "GOOD"
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Troubleshooting"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Troubleshooting",
+                                    "troubleshoot"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Bachelors Degree > Bachelor of Science > Bachelor of Science computer science"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "bachelors"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "Equivalent",
+                                "_value": "or equivalent ; "
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "computer science",
+                                    "Bachelors Degree > Bachelor of Science > Bachelor of Science computer science",
+                                    "B.Sc. in computer science or equivalent"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Degree/Qualification"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Oracle DBA"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Oracle DBA"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillProficiency",
+                                "_value": "WORKING"
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "SQL"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "SQL",
+                                    "SQL knowledge"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillProficiency",
+                                "_value": "GOOD"
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "RDBMS"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "RDBMS",
+                                    "knowledge of RDBMS Experience"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "UNIX"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "UNIX"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Relevant Database Certifications"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "certification"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Relevant Database Certifications"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Degree/Qualification > Professional"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "_name": "PositionStatus",
+                    "_value": "Active"
+                },
+                {
+                    "_name": "ContactInformation",
+                    "_value": [
+                        {
+                            "_name": "ContactLocation",
+                            "_value": [
+                                {
+                                    "_name": "LocationTown",
+                                    "_value": "Seattle"
+                                },
+                                {
+                                    "_name": "LocationText",
+                                    "_value": "Seattle"
+                                },
+                                {
+                                    "_name": "LocationCountry",
+                                    "_value": "US"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "_name": "MinExperienceYears",
+                    "_value": "7"
+                }
+            ]
+        },
+        {
+            "_name": "jobDescription",
+            "_value": "\n   DB Specialist - Bothell/Seattle\n\nRole Description\n\nResponsibility of maintaining and supporting Oracle based Databases. Including Production, Performance and Testing environments.\nSupporting end to end life cycle of product from database perspective.\nHelp with modernizing DB architecture and maintenance to implement new DB technologies, such as Liquibase, NoSQL DBs, while making it possible to take on increasingly complex business requirements.\nAbility to investigate and provide expertise on queries performance in Production Oracle based BD as well as in testing environments.\n\nKey responsibilities\n\nProvide high level of expertise and problem solving services to all stakeholders during project lifecycle (from Development till post production) by clarifying and addressing permanent and efficient solutions to complex and unusual problems\nDesign, development, configuration and administration of large and critical database system. Experienced in both Oracle 12C and NoSQL database technologies like Casandra, Mongo DB.\nAnalyze, enhance database configuration and ensure full availability, high performance and improve highly complex code where conventional approaches do not help, requiring high analytical capabilities and broad and extensive knowledge\nDesign strategy for DB working processes (e.g. backup & recovery) during project life cycle and translate and guide until implementation\nProvide guidance and coaching to project management and development teams ,implementation groups as well as customer architects - internal and externalAmdocs customers, including stakeholders who lack technical DB expertise.\nAlso you understand the business requirements around the DB Architecture and be actively involved in evolving it as per the latest business needs. Identify automation and efficiency opportunities, lead and direct the solution creation and implementation, and assure standards (new and existing processes and initiate enhanced changes).Manage and lead Root Cause Analysis, Lesson Learned and prevention processes to meet high standard of deliverables and work according to company methodology\n Review code/scripts/plans, meet KPIs ad SLA, plan vs. Actual comparisons and LL/RCAs.\nProduction support of the application from DB perspective, working in DevOps model within the team to troubleshoot issues related to logical business flow or performance or outages.\nAll you need is...\n\nBachelor / B.Sc. in computer science or equivalent\n\n7-8 years' experience as Oracle DBA and SQL knowledge in a SW company\nSignificant experience and solid knowledge of RDBMS\nExperience with UNIX or UNIX variants and scripting\n\nRelevant Database Certifications are required.\nExperience in operating within a complex, multi-interface environment.\n\n  "
+        }
+    ]
+}

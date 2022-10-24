@@ -1,0 +1,12 @@
+/Users/omeromer/talenya/bin/Debug/netcoreapp3.1/talenya
+/Users/omeromer/talenya/bin/Debug/netcoreapp3.1/talenya.deps.json
+/Users/omeromer/talenya/bin/Debug/netcoreapp3.1/talenya.runtimeconfig.json
+/Users/omeromer/talenya/bin/Debug/netcoreapp3.1/talenya.runtimeconfig.dev.json
+/Users/omeromer/talenya/bin/Debug/netcoreapp3.1/talenya.dll
+/Users/omeromer/talenya/bin/Debug/netcoreapp3.1/talenya.pdb
+/Users/omeromer/talenya/obj/Debug/netcoreapp3.1/talenya.csprojAssemblyReference.cache
+/Users/omeromer/talenya/obj/Debug/netcoreapp3.1/talenya.dll
+/Users/omeromer/talenya/obj/Debug/netcoreapp3.1/talenya.pdb
+/Users/omeromer/talenya/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/omeromer/talenya/obj/Debug/netcoreapp3.1/talenya.csproj.CopyComplete
+/Users/omeromer/talenya/bin/Debug/netcoreapp3.1/nunit.framework.dll

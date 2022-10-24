@@ -1,0 +1,660 @@
+{
+    "success": true,
+    "message": "Position processed successfully",
+    "result": [
+        {
+            "_name": "parsedPosition",
+            "_value": [
+                {
+                    "_name": "JobDescription",
+                    "_value": "\n    Metro area.\n\nWhat You'll Do\n\nLearn to Run an eCommerce Business from Day One\n\nBe trained in all required skills, tools and systems to own \nyour category through our immersive 12-week training program\n\nBe mentored by experienced leaders and industry experts who \nwill advise and help you succeed\n\nBe part of a cohort:\n join a group of best-in-class peers \ngrowing and learning alongside you.\n\nGrow Your Category and Deliver an Incredible Shopping Experience\n\nHave It:\n Provide the best assortment of\nproducts for our customers. Manage and monitor onboarding and item set up \nprocess to make sure products are available and ready to sell.\n\nFind It:\n Ensure customers can easily browse\nand find the products they want. Improve navigation experience (browse/search)\nby managing and enhancing product attributes and taxonomy.\n\nDisplay It:\n Attract customers through\ncompelling messaging and visual merchandising. Manage item and category pages \nincluding product imagery, rating reviews, basic and enhanced content.\n\nPrice It:\n Optimize item and category pricing,\nproviding competitive pricing for our customers. Manage product margins and \nbenchmark competitors.\n\nDeliver It:\n Work cross-functionally to ensure\ncustomers receive their products quickly and efficiently. Create a cohesive \nexperience between online shopping and the physical product.\n\nOptimize It:\n Rinse and repeat. Conduct\nregular analysis of category performance, identifying key trends and \nimprovement opportunities. Work with cross functional teams (across marketing, \nproduct and supply chain) to execute initiatives to optimize category \nperformance.\n\nHow You'll Work\n\nYou own it: Category Specialist are the business owners for a product category. Your job is to blend art with science, \ncombining your creative intuition, analytical skills, and passion for helping \nour customers to create the best shopping experience.\n\nYou drive it:\n World-class interpersonal and\npersuasion skills will be required as you will be collaborating with vendors \nand coordinating cross-functional teams to make sure we sell what customers \nwant. You will need to start with the customer and work backwards, decoding \ntheir needs and journeys.\n\nYou lead it:\n Have an idea? Go for it. You\nwill work within a world-class team of collaborative colleagues and have access \nto industry-leading merchandising tools and technology to help test and \nvalidate your ideas.\n\nWhat You Should Have\n\nAs a Category Specialist, you will be the end-to-end owner of\nmanaging, optimizing, and scaling a category of products across our family of \neCommerce brands. You will be at the center of Walmart's eCommerce Home Retail \norganization, equipped with the technology, infrastructure, and comprehensive \ntraining to empower you to grow our business from day one.\n\nWe're hiring from coast to coast - join us in the San Francisco\nBay area, New York Metro area, or the \n\n\n  "
+                },
+                {
+                    "_name": "lang",
+                    "_value": "EN"
+                },
+                {
+                    "_name": "src",
+                    "_value": "DAXTRA-JOX schema:1.0.4 release:0.19.0.62413 rdate:2019-05-10"
+                },
+                {
+                    "_name": "PositionTitle",
+                    "_value": "Category Specialist"
+                },
+                {
+                    "_name": "PositionCategory",
+                    "_value": [
+                        [
+                            {
+                                "_name": "Code",
+                                "_value": "procurement"
+                            },
+                            {
+                                "_name": "type",
+                                "_value": "primary"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "_name": "DegreeType",
+                    "_value": "bachelors"
+                },
+                {
+                    "_name": "PositionId",
+                    "_value": [
+                        {
+                            "_name": "IdIssuer",
+                            "_value": "Walmart"
+                        }
+                    ]
+                },
+                {
+                    "_name": "PositionDescription",
+                    "_value": "\n   Walmart eCommerce is rapidly innovating to evolve and define the future state of shopping. With some of the brightest minds in technology, merchandising, marketing, supply chain, talent and more, we are reimagining the intersection of digital and physical shopping to help achieve that mission. Backed by the world's largest retailer, Walmart eCommerce is a growing family of brands including Walmart, Jet and Hayneedle.  And we're just getting\n\n started.\n\nAbout the Role\n\nAs a Category Specialist, you\nwill be the end-to-end owner of managing, optimizing, and scaling a category of \nproducts across our family of eCommerce brands. You will be at the center of\nWalmart's eCommerce Home Retail organization, equipped with the technology, \ninfrastructure, and comprehensive training to empower you to grow our business \nfrom day one.\n\nWe're hiring from coast to coast - join us in the San Francisco Bay area, New York Metro area, or the \nOmaha Metro area.\n\nWhat You'll Do\n\nLearn to Run an eCommerce Business from Day One\n\nBe trained in all required skills, tools and systems to own \nyour category through our immersive 12-week training program\n\nBe mentored by experienced leaders and industry experts who \nwill advise and help you succeed\n\nBe part of a cohort: join a group of best-in-class peers \ngrowing and learning alongside you.\n\nGrow Your Category and Deliver an Incredible Shopping Experience\n\nHave It: Provide the best assortment of\nproducts for our customers. Manage and monitor onboarding and item set up \nprocess to make sure products are available and ready to sell.\n\nFind It: Ensure customers can easily browse\nand find the products they want. Improve navigation experience (browse/search)\nby managing and enhancing product attributes and taxonomy.\n\nDisplay It: Attract customers through\ncompelling messaging and visual merchandising. Manage item and category pages \nincluding product imagery, rating reviews, basic and enhanced content.\n\nPrice It: Optimize item and category pricing,\nproviding competitive pricing for our customers. Manage product margins and \nbenchmark competitors.\n\nDeliver It: Work cross-functionally to ensure\ncustomers receive their products quickly and efficiently. Create a cohesive \nexperience between online shopping and the physical product.\n\nOptimize It: Rinse and repeat. Conduct\nregular analysis of category performance, identifying key trends and \nimprovement opportunities. Work with cross functional teams (across marketing, \nproduct and supply chain) to execute initiatives to optimize category \nperformance.\n\nHow You'll Work\n\nYou own it: Category Specialist are the business owners for a product category. Your job is to blend art with science, \ncombining your creative intuition, analytical skills, and passion for helping \nour customers to create the best shopping experience.\n\nYou drive it: World-class interpersonal and\npersuasion skills will be required as you will be collaborating with vendors \nand coordinating cross-functional teams to make sure we sell what customers \nwant. You will need to start with the customer and work backwards, decoding \ntheir needs and journeys.\n\nYou lead it: Have an idea? Go for it. You\nwill work within a world-class team of collaborative colleagues and have access \nto industry-leading merchandising tools and technology to help test and \nvalidate your ideas.\n\nWhat You Should Have\n\nAs a Category Specialist, you will be the end-to-end owner of\nmanaging, optimizing, and scaling a category of products across our family of \neCommerce brands. You will be at the center of Walmart's eCommerce Home Retail \norganization, equipped with the technology, infrastructure, and comprehensive \ntraining to empower you to grow our business from day one.\n\nWe're hiring from coast to coast - join us in the San Francisco\nBay area, New York Metro area, or the Omaha Metro area.\n\nWhat You'll Do\n\nLearn to Run an eCommerce Business from Day One\n\nBe trained in all required skills, tools and systems to own your \ncategory through our immersive 12-week training program\n\nBe mentored by experienced leaders and industry experts who will \nadvise and help you succeed\n\nBe part of a cohort: join a group of best-in-class peers growing \nand learning alongside you.\n\nGrow Your Category and Deliver an Incredible Shopping Experience\n\nHave It: Provide the best assortment of products for our customers.\nManage and monitor onboarding and item set up process to make sure products are \navailable and ready to sell.\n\nFind It: Ensure customers can easily browse and find\nthe products they want. Improve navigation experience (browse/search) by \nmanaging and enhancing product attributes and taxonomy.\n\nDisplay It: Attract customers through compelling messaging and visual \nmerchandising. Manage item and category pages including product imagery, rating \nreviews, basic and enhanced content.\n\nPrice It: Optimize item and category pricing, providing competitive \npricing for our customers. Manage product margins and benchmark competitors.\n\nDeliver It: Work cross-functionally to ensure customers receive their \nproducts quickly and efficiently. Create a cohesive experience between online \nshopping and the physical product.\n\nOptimize It: Rinse and repeat. Conduct regular analysis of\ncategory performance, identifying key trends and improvement opportunities.\nWork with cross functional teams (across marketing, product and supply chain) \nto execute initiatives to optimize category performance.\n\nHow You'll Work\n\nYou own it: Category Specialist are the business owners for a product \ncategory. Your job is to blend art with science, combining your creative \nintuition, analytical skills, and passion for helping our customers to create \nthe best shopping experience.\n\nYou drive it: World-class interpersonal and persuasion skills will be \nrequired as you will be collaborating with vendors and coordinating\ncross-functional teams to make sure we sell what customers want. You will need \nto start with the customer and work backwards, decoding their needs and \njourneys.\n\nYou lead it: Have an idea? Go for it. You will work within a \nworld-class team of collaborative colleagues and have access to\nindustry-leading merchandising tools and technology to help test and validate \nyour ideas.\n\nWhat You Should Have\n\nBachelor's degree with a strong academic background\n\nStrong analytical and critical thinking skills\n\nA founder's mentality and bias to action. Whatever challenge you \nface, you find a way to solve it\n\nStrong attention to detail; scrutinize your business and polish \nthe customer experience\n\nStrong communication and team work skills. Nothing big can be \naccomplished standing-alone in front of a computer\n\nAbility to work in an ambiguous environment. You are a \nfundamental building block to a growing organization\n\nNegotiation and persuasion skills\n\nAbility to learn quickly; absorbing information and experiences \nand applying them\n\nPrevious internship or work experience is preferred\n\nTravel as needed. Immigration sponsorship will not be available \nfor this position at this time.\n\n  "
+                },
+                {
+                    "_name": "Competency",
+                    "_value": [
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "eCommerce"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "eCommerce"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Merchandising"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "retail > marketing"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Merchandising"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Marketing"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "marketing"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Marketing"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Supply Chain"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "transport > logistics"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Supply Chain"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "comprehensive training"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "hr"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "comprehensive training"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Incredible Shopping Experience"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Incredible Shopping Experience"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Onboarding"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "hr > training"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Onboarding"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "navigation experience"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "navigation experience"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Visual Merchandising"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "retail > marketing"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Visual Merchandising"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Manage item"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Manage item"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Manage product margins"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Manage product margins"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "cohesive experience"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "cohesive experience"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Conduct regular analysis"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Conduct regular analysis"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Analytical Skills"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Analytical Skills"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "shopping experience"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "shopping experience"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "persuasion skills"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "persuasion skills"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Bachelors Degree"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "bachelors"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Bachelors Degree",
+                                    "Bachelor's degree"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Degree/Qualification"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Strong analytical skills"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Strong analytical skills",
+                                    "Strong analytical"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "critical thinking skills"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "critical thinking skills",
+                                    "critical thinking"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Customer Experience"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "marketing > misc"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Customer Experience"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Strong communication skills"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Strong communication skills",
+                                    "Strong communication"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "team work skills"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "team work skills",
+                                    "team work"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "_name": "PositionStatus",
+                    "_value": "Active"
+                },
+                {
+                    "_name": "ContactInformation",
+                    "_value": [
+                        {
+                            "_name": "PersonName",
+                            "_value": [
+                                {
+                                    "_name": "FormattedName",
+                                    "_value": "Omaha Metro"
+                                },
+                                {
+                                    "_name": "FamilyName",
+                                    "_value": "Metro"
+                                },
+                                {
+                                    "_name": "GivenName",
+                                    "_value": "Omaha "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "_name": "CompanyDescription",
+                    "_value": "\n   Walmart eCommerce is rapidly innovating to evolve and define the future state of shopping. With some of the brightest minds in technology, merchandising, marketing, supply chain, talent and more, we are reimagining the intersection of digital and physical shopping to help achieve that mission. Backed by the world's largest retailer, Walmart eCommerce is a growing family of brands including Walmart, Jet and Hayneedle.  And we're just getting\n\n\n  "
+                }
+            ]
+        },
+        {
+            "_name": "jobDescription",
+            "_value": "\n   Walmart eCommerce is rapidly innovating to evolve and define the future state of shopping. With some of the brightest minds in technology, merchandising, marketing, supply chain, talent and more, we are reimagining the intersection of digital and physical shopping to help achieve that mission. Backed by the world's largest retailer, Walmart eCommerce is a growing family of brands including Walmart, Jet and Hayneedle.  And we're just getting\n\n started.\n\nAbout the Role\n\nAs a Category Specialist, you\nwill be the end-to-end owner of managing, optimizing, and scaling a category of \nproducts across our family of eCommerce brands. You will be at the center of\nWalmart's eCommerce Home Retail organization, equipped with the technology, \ninfrastructure, and comprehensive training to empower you to grow our business \nfrom day one.\n\nWe're hiring from coast to coast - join us in the San Francisco Bay area, New York Metro area, or the \nOmaha Metro area.\n\nWhat You'll Do\n\nLearn to Run an eCommerce Business from Day One\n\nBe trained in all required skills, tools and systems to own \nyour category through our immersive 12-week training program\n\nBe mentored by experienced leaders and industry experts who \nwill advise and help you succeed\n\nBe part of a cohort: join a group of best-in-class peers \ngrowing and learning alongside you.\n\nGrow Your Category and Deliver an Incredible Shopping Experience\n\nHave It: Provide the best assortment of\nproducts for our customers. Manage and monitor onboarding and item set up \nprocess to make sure products are available and ready to sell.\n\nFind It: Ensure customers can easily browse\nand find the products they want. Improve navigation experience (browse/search)\nby managing and enhancing product attributes and taxonomy.\n\nDisplay It: Attract customers through\ncompelling messaging and visual merchandising. Manage item and category pages \nincluding product imagery, rating reviews, basic and enhanced content.\n\nPrice It: Optimize item and category pricing,\nproviding competitive pricing for our customers. Manage product margins and \nbenchmark competitors.\n\nDeliver It: Work cross-functionally to ensure\ncustomers receive their products quickly and efficiently. Create a cohesive \nexperience between online shopping and the physical product.\n\nOptimize It: Rinse and repeat. Conduct\nregular analysis of category performance, identifying key trends and \nimprovement opportunities. Work with cross functional teams (across marketing, \nproduct and supply chain) to execute initiatives to optimize category \nperformance.\n\nHow You'll Work\n\nYou own it: Category Specialist are the business owners for a product category. Your job is to blend art with science, \ncombining your creative intuition, analytical skills, and passion for helping \nour customers to create the best shopping experience.\n\nYou drive it: World-class interpersonal and\npersuasion skills will be required as you will be collaborating with vendors \nand coordinating cross-functional teams to make sure we sell what customers \nwant. You will need to start with the customer and work backwards, decoding \ntheir needs and journeys.\n\nYou lead it: Have an idea? Go for it. You\nwill work within a world-class team of collaborative colleagues and have access \nto industry-leading merchandising tools and technology to help test and \nvalidate your ideas.\n\nWhat You Should Have\n\nAs a Category Specialist, you will be the end-to-end owner of\nmanaging, optimizing, and scaling a category of products across our family of \neCommerce brands. You will be at the center of Walmart's eCommerce Home Retail \norganization, equipped with the technology, infrastructure, and comprehensive \ntraining to empower you to grow our business from day one.\n\nWe're hiring from coast to coast - join us in the San Francisco\nBay area, New York Metro area, or the Omaha Metro area.\n\nWhat You'll Do\n\nLearn to Run an eCommerce Business from Day One\n\nBe trained in all required skills, tools and systems to own your \ncategory through our immersive 12-week training program\n\nBe mentored by experienced leaders and industry experts who will \nadvise and help you succeed\n\nBe part of a cohort: join a group of best-in-class peers growing \nand learning alongside you.\n\nGrow Your Category and Deliver an Incredible Shopping Experience\n\nHave It: Provide the best assortment of products for our customers.\nManage and monitor onboarding and item set up process to make sure products are \navailable and ready to sell.\n\nFind It: Ensure customers can easily browse and find\nthe products they want. Improve navigation experience (browse/search) by \nmanaging and enhancing product attributes and taxonomy.\n\nDisplay It: Attract customers through compelling messaging and visual \nmerchandising. Manage item and category pages including product imagery, rating \nreviews, basic and enhanced content.\n\nPrice It: Optimize item and category pricing, providing competitive \npricing for our customers. Manage product margins and benchmark competitors.\n\nDeliver It: Work cross-functionally to ensure customers receive their \nproducts quickly and efficiently. Create a cohesive experience between online \nshopping and the physical product.\n\nOptimize It: Rinse and repeat. Conduct regular analysis of\ncategory performance, identifying key trends and improvement opportunities.\nWork with cross functional teams (across marketing, product and supply chain) \nto execute initiatives to optimize category performance.\n\nHow You'll Work\n\nYou own it: Category Specialist are the business owners for a product \ncategory. Your job is to blend art with science, combining your creative \nintuition, analytical skills, and passion for helping our customers to create \nthe best shopping experience.\n\nYou drive it: World-class interpersonal and persuasion skills will be \nrequired as you will be collaborating with vendors and coordinating\ncross-functional teams to make sure we sell what customers want. You will need \nto start with the customer and work backwards, decoding their needs and \njourneys.\n\nYou lead it: Have an idea? Go for it. You will work within a \nworld-class team of collaborative colleagues and have access to\nindustry-leading merchandising tools and technology to help test and validate \nyour ideas.\n\nWhat You Should Have\n\nBachelor's degree with a strong academic background\n\nStrong analytical and critical thinking skills\n\nA founder's mentality and bias to action. Whatever challenge you \nface, you find a way to solve it\n\nStrong attention to detail; scrutinize your business and polish \nthe customer experience\n\nStrong communication and team work skills. Nothing big can be \naccomplished standing-alone in front of a computer\n\nAbility to work in an ambiguous environment. You are a \nfundamental building block to a growing organization\n\nNegotiation and persuasion skills\n\nAbility to learn quickly; absorbing information and experiences \nand applying them\n\nPrevious internship or work experience is preferred\n\nTravel as needed. Immigration sponsorship will not be available \nfor this position at this time.\n\n  "
+        }
+    ]
+}

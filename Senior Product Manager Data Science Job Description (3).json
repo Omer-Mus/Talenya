@@ -1,0 +1,350 @@
+{
+    "success": true,
+    "message": "Position processed successfully",
+    "result": [
+        {
+            "_name": "parsedPosition",
+            "_value": [
+                {
+                    "_name": "ProfileDescription",
+                    "_value": "\n   Qualifications:\n\n\nExcellent communication and coordination skills both written and verbally\nMinimum 5\nyears' experience as a Product Manager, Product Owner or Business Analyst \nfor an agile team in a technology company\nPrevious\nexperience building machine learning tools and platforms, highly desired\nUnderstanding\nof statistical programming languages such as R or Python\nGood\nunderstanding of how business intelligence works\nSolid\nexperience working with data; good understanding of SQL\nStrong\nanalytical and problem solving skills\nAbility to\nwork under pressure with a solid sense for setting priorities\n\n\n  "
+                },
+                {
+                    "_name": "JobDescription",
+                    "_value": "\n   As a Senior Product Manager, you will define the vision and capabilities for Information Builders' (IBI's) products.  You will serve as the ``CEO'' of the products and features you are responsible for, with the mandate to deliver measurable value to our customers and drive profitable growth to the company.\n\nYour work will follow Agile practices, with a focus on delivering value to customers in small batches and iterating on the outcomes you measure.  The feature teams currently operate in two week sprints and perform demos and retrospectives at the end of each sprint.\n\nResponsibilities\n\nIn three months, you would:\n\nGain an understanding of the value proposition and technology for our full product \nsuite\nSpeak to\ncustomers and internal stakeholders to gain a full scope of the product \nparameter space\nGenerate\nuser stories that reflect our customers' needs\nGroom and\nmanage a backlog of user stories\nBuild relationships\nwith engineering and other product teams\n\nIn six months, you would:\n\nDevelop a\nroadmap with your product vision for the next 12-18 months\n\nCoordinate\nefforts across multiple product and engineering teams to ensure product \nfeatures are released on time\n\nIn twelve months, you would:\n\nIncrease team velocity by shaping processes and improving collaboration with \nengineers\nEstablish\nyourself as central player for all issues related to development and post \ngo-live support\nInfluence\nthe roadmap by having a comprehensive understanding of the platform's and \nbusiness' needs to identify opportunities for improvement based on our \ncurrent setup\n\n\n  "
+                },
+                {
+                    "_name": "lang",
+                    "_value": "EN"
+                },
+                {
+                    "_name": "PostingOrgIndustry",
+                    "_value": [
+                        {
+                            "_name": "Description",
+                            "_value": "the company"
+                        }
+                    ]
+                },
+                {
+                    "_name": "src",
+                    "_value": "DAXTRA-JOX schema:1.0.4 release:0.19.0.62413 rdate:2019-05-10"
+                },
+                {
+                    "_name": "PositionTitle",
+                    "_value": "CEO"
+                },
+                {
+                    "_name": "PositionCategory",
+                    "_value": [
+                        [
+                            {
+                                "_name": "Code",
+                                "_value": "senior"
+                            },
+                            {
+                                "_name": "type",
+                                "_value": "primary"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "_name": "PositionDescription",
+                    "_value": "\n   As a Senior Product Manager, you will define the vision and capabilities for Information Builders' (IBI's) products.  You will serve as the ``CEO'' of the products and features you are responsible for, with the mandate to deliver measurable value to our customers and drive profitable growth to the company.\n\nIn this role, you will manage a ``feature team'' of engineers to design, build, and deliver your creations.  You will be a strong customer advocate and will guide the team through negotiating tradeoffs to determine the best path forward. You will interact with customers, engineers, UX designers and others to turn concepts and ideas into reality.\n\nYour work will follow Agile practices, with a focus on delivering value to customers in small batches and iterating on the outcomes you measure.  The feature teams currently operate in two week sprints and perform demos and retrospectives at the end of each sprint.\n\nResponsibilities\n\nIn three months, you would:\n\nGain an understanding of the value proposition and technology for our full product \nsuite\nSpeak to\ncustomers and internal stakeholders to gain a full scope of the product \nparameter space\nGenerate\nuser stories that reflect our customers' needs\nGroom and\nmanage a backlog of user stories\nBuild relationships\nwith engineering and other product teams\n\nIn six months, you would:\n\nDevelop a\nroadmap with your product vision for the next 12-18 months\n\nCoordinate\nefforts across multiple product and engineering teams to ensure product \nfeatures are released on time\n\nIn twelve months, you would:\n\nIncrease team velocity by shaping processes and improving collaboration with \nengineers\nEstablish\nyourself as central player for all issues related to development and post \ngo-live support\nInfluence\nthe roadmap by having a comprehensive understanding of the platform's and \nbusiness' needs to identify opportunities for improvement based on our \ncurrent setup\n\nQualifications:\n\nExcellent communication and coordination skills both written and verbally\nMinimum 5\nyears' experience as a Product Manager, Product Owner or Business Analyst \nfor an agile team in a technology company\nPrevious\nexperience building machine learning tools and platforms, highly desired\nUnderstanding\nof statistical programming languages such as R or Python\nGood\nunderstanding of how business intelligence works\nSolid\nexperience working with data; good understanding of SQL\nStrong\nanalytical and problem solving skills\nAbility to\nwork under pressure with a solid sense for setting priorities\nExcellent\ntime management and a drive to get things done\n\n  "
+                },
+                {
+                    "_name": "Competency",
+                    "_value": [
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Agile Methodology"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Agile Methodology",
+                                    "Agile practices"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "live support"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "live support"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Excellent communication and coordination"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Excellent communication and coordination",
+                                    "Excellent communication and coordination skills"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Machine Learning"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Machine Learning"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Python Programming"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it > progr-lang"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Python Programming",
+                                    "Python"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Business Intelligence"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Business Intelligence"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillProficiency",
+                                "_value": "GOOD"
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "SQL"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "SQL",
+                                    "good understanding of SQL"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Strong analytical skills"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Strong analytical skills",
+                                    "Strong analytical"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "problem solving skills"
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "problem solving skills"
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "problem solving skills"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "problem solving skills",
+                                    "problem solving"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Time Management"
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Time Management"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Time Management"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "_name": "PositionStatus",
+                    "_value": "Active"
+                },
+                {
+                    "_name": "CompanyDescription",
+                    "_value": "\n   \n\nIn this role, you will manage a ``feature team'' of engineers to design, build, and deliver your creations.  You will be a strong customer advocate and will guide the team through negotiating tradeoffs to determine the best path forward. You will interact with customers, engineers, UX designers and others to turn concepts and ideas into reality.\n\n\n  "
+                }
+            ]
+        },
+        {
+            "_name": "jobDescription",
+            "_value": "\n   As a Senior Product Manager, you will define the vision and capabilities for Information Builders' (IBI's) products.  You will serve as the ``CEO'' of the products and features you are responsible for, with the mandate to deliver measurable value to our customers and drive profitable growth to the company.\n\nIn this role, you will manage a ``feature team'' of engineers to design, build, and deliver your creations.  You will be a strong customer advocate and will guide the team through negotiating tradeoffs to determine the best path forward. You will interact with customers, engineers, UX designers and others to turn concepts and ideas into reality.\n\nYour work will follow Agile practices, with a focus on delivering value to customers in small batches and iterating on the outcomes you measure.  The feature teams currently operate in two week sprints and perform demos and retrospectives at the end of each sprint.\n\nResponsibilities\n\nIn three months, you would:\n\nGain an understanding of the value proposition and technology for our full product \nsuite\nSpeak to\ncustomers and internal stakeholders to gain a full scope of the product \nparameter space\nGenerate\nuser stories that reflect our customers' needs\nGroom and\nmanage a backlog of user stories\nBuild relationships\nwith engineering and other product teams\n\nIn six months, you would:\n\nDevelop a\nroadmap with your product vision for the next 12-18 months\n\nCoordinate\nefforts across multiple product and engineering teams to ensure product \nfeatures are released on time\n\nIn twelve months, you would:\n\nIncrease team velocity by shaping processes and improving collaboration with \nengineers\nEstablish\nyourself as central player for all issues related to development and post \ngo-live support\nInfluence\nthe roadmap by having a comprehensive understanding of the platform's and \nbusiness' needs to identify opportunities for improvement based on our \ncurrent setup\n\nQualifications:\n\nExcellent communication and coordination skills both written and verbally\nMinimum 5\nyears' experience as a Product Manager, Product Owner or Business Analyst \nfor an agile team in a technology company\nPrevious\nexperience building machine learning tools and platforms, highly desired\nUnderstanding\nof statistical programming languages such as R or Python\nGood\nunderstanding of how business intelligence works\nSolid\nexperience working with data; good understanding of SQL\nStrong\nanalytical and problem solving skills\nAbility to\nwork under pressure with a solid sense for setting priorities\nExcellent\ntime management and a drive to get things done\n\n  "
+        }
+    ]
+}

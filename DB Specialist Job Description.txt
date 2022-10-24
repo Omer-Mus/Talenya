@@ -1,0 +1,29 @@
+DB Specialist – Bothell/Seattle
+ 
+Role Description 
+ 
+Responsibility of maintaining and supporting Oracle based Databases. Including Production, Performance and Testing environments. 
+Supporting end to end life cycle of product from database perspective. 
+Help with modernizing DB architecture and maintenance to implement new DB technologies, such as Liquibase, NoSQL DBs, while making it possible to take on increasingly complex business requirements. 
+Ability to investigate and provide expertise on queries performance in Production Oracle based BD as well as in testing environments.
+ 
+Key responsibilities 
+ 
+Provide high level of expertise and problem solving services to all stakeholders during project lifecycle (from Development till post production) by clarifying and addressing permanent and efficient solutions to complex and unusual problems
+Design, development, configuration and administration of large and critical database system. Experienced in both Oracle 12C and NoSQL database technologies like Casandra, Mongo DB.
+Analyze, enhance database configuration and ensure full availability, high performance and improve highly complex code where conventional approaches do not help, requiring high analytical capabilities and broad and extensive knowledge
+Design strategy for DB working processes (e.g. backup & recovery) during project life cycle and translate and guide until implementation
+Provide guidance and coaching to project management and development teams ,implementation groups as well as customer architects - internal and externalAmdocs customers, including stakeholders who lack technical DB expertise.
+Also you understand the business requirements around the DB Architecture and be actively involved in evolving it as per the latest business needs. Identify automation and efficiency opportunities, lead and direct the solution creation and implementation, and assure standards (new and existing processes and initiate enhanced changes).Manage and lead Root Cause Analysis, Lesson Learned and prevention processes to meet high standard of deliverables and work according to company methodology
+ Review code/scripts/plans, meet KPIs ad SLA, plan vs. Actual comparisons and LL/RCAs.
+Production support of the application from DB perspective, working in DevOps model within the team to troubleshoot issues related to logical business flow or performance or outages.   
+All you need is…
+ 
+Bachelor / B.Sc. in computer science or equivalent
+
+7-8 years’ experience as Oracle DBA and SQL knowledge in a SW company
+Significant experience and solid knowledge of RDBMS
+Experience with UNIX or UNIX variants and scripting
+
+Relevant Database Certifications are required.
+Experience in operating within a complex, multi-interface environment. 

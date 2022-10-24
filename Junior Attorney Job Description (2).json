@@ -1,0 +1,308 @@
+{
+    "success": true,
+    "message": "Position processed successfully",
+    "result": [
+        {
+            "_name": "parsedPosition",
+            "_value": [
+                {
+                    "_name": "ProfileDescription",
+                    "_value": "\n   Qualifications:\n\n\n* JD or equivalent with license in good standing to practice law in NY required.\n\n* 2-3 years relevant experience required.\n\n* Detail oriented with strong organizational, analytical, written, and verbal communication skills.\n\n* Knowledge of U.S. and internationalU.S. privacy and data protection laws and regulations (e.g., HIPAA, GDPR, CCPA) desired but not required.\n\n* Ability to think strategically and provide business-practical legal advice and solutions.\n\n* Ability to balance competing priorities in a high volume work environment.\n\n* Ability to work independently.\n\n-          Ideal candidate would be having around 2-3yrs of experience including the Bar experience\n\n-          Should have a valid Bar License\n\n-     \n     Must haves:\n\no   Draft, review and negotiate a wide range of commercial contracts including customer agreements, professional services contracts, content development and license agreements, vendor agreements.\n\no   Due Diligience / M&A experience\n\n-          Knowledge of U.S. and internationalU.S. privacy and data protection laws and regulations (e.g., HIPAA, GDPR, CCPA) desired but not required. (Try keeping them as must in the first scrape, if the pool is low change them to ``important''\n\n\n  "
+                },
+                {
+                    "_name": "JobDescription",
+                    "_value": "\n    an Attorney with 2-3 years of experience. The position is a generalist role with exposure to multiple practice areas and will provide the Attorney with the opportunity to work with newly acquired companies in a dynamic growth environment. The successful candidate will have general corporate legal experience, specializing in commercial contracts. The Attorney must be confident and business-minded with a proven ability to manage multiple projects in a fast-paced environment.\n\nCore Areas of Responsibility:\n\n\nIn partnership with business line leaders, other corporate functions and legal team members:\n\n* Draft, review and negotiate a wide range of commercial contracts including customer agreements, professional services contracts, content development and license agreements, advertising technology contracts, data agreements and software and technology license agreements.\n\n* Assist with legal due diligence in connection with various domestic and international M&A activities and provide legal support for matters related to post-M&A integrations.\n\n* Advise internal clients on legal issues and risks relevant to WebMD's business, including online advertising.\n\n* Provide legal counsel and guidance on a broad range of privacy and regulatory matters.\n\n* Support the ongoing improvement of standard form agreements, policies and legal processes.\n\n* Perform other relevant duties as assigned.\n\n\n  "
+                },
+                {
+                    "_name": "lang",
+                    "_value": "EN"
+                },
+                {
+                    "_name": "PostingOrgIndustry",
+                    "_value": [
+                        {
+                            "_name": "Description",
+                            "_value": "professional services"
+                        }
+                    ]
+                },
+                {
+                    "_name": "src",
+                    "_value": "DAXTRA-JOX schema:1.0.4 release:0.19.0.62413 rdate:2019-05-10"
+                },
+                {
+                    "_name": "PositionTitle",
+                    "_value": "Attorney"
+                },
+                {
+                    "_name": "PositionCategory",
+                    "_value": [
+                        [
+                            {
+                                "_name": "Code",
+                                "_value": "banking-finance"
+                            },
+                            {
+                                "_name": "type",
+                                "_value": "primary"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "_name": "PositionId",
+                    "_value": [
+                        {
+                            "_name": "IdIssuer",
+                            "_value": "WebMD"
+                        }
+                    ]
+                },
+                {
+                    "_name": "PositionDescription",
+                    "_value": "\n   WebMD, an Internet Brands company, is seeking an Attorney with 2-3 years of experience. The position is a generalist role with exposure to multiple practice areas and will provide the Attorney with the opportunity to work with newly acquired companies in a dynamic growth environment. The successful candidate will have general corporate legal experience, specializing in commercial contracts. The Attorney must be confident and business-minded with a proven ability to manage multiple projects in a fast-paced environment.\n\nCore Areas of Responsibility:\n\nIn partnership with business line leaders, other corporate functions and legal team members:\n\n* Draft, review and negotiate a wide range of commercial contracts including customer agreements, professional services contracts, content development and license agreements, advertising technology contracts, data agreements and software and technology license agreements.\n\n* Assist with legal due diligence in connection with various domestic and international M&A activities and provide legal support for matters related to post-M&A integrations.\n\n* Advise internal clients on legal issues and risks relevant to WebMD's business, including online advertising.\n\n* Provide legal counsel and guidance on a broad range of privacy and regulatory matters.\n\n* Support the ongoing improvement of standard form agreements, policies and legal processes.\n\n* Perform other relevant duties as assigned.\n\nQualifications:\n\n* JD or equivalent with license in good standing to practice law in NY required.\n\n* 2-3 years relevant experience required.\n\n* Detail oriented with strong organizational, analytical, written, and verbal communication skills.\n\n* Knowledge of U.S. and internationalU.S. privacy and data protection laws and regulations (e.g., HIPAA, GDPR, CCPA) desired but not required.\n\n* Ability to think strategically and provide business-practical legal advice and solutions.\n\n* Ability to balance competing priorities in a high volume work environment.\n\n* Ability to work independently.\n\n-    Ideal candidate would be having around 2-3yrs of experience including the Bar experience\n\n-    Should have a valid Bar License\n\n-    Must haves:\n\no    Draft, review and negotiate a wide range of commercial contracts including customer agreements, professional services contracts, content development and license agreements, vendor agreements.\n\no    Due Diligience / M&A experience\n\n-    Knowledge of U.S. and internationalU.S. privacy and data protection laws and regulations (e.g., HIPAA, GDPR, CCPA) desired but not required. (Try keeping them as must in the first scrape, if the pool is low change them to ``important''\n\n-    Location - NYC\n\n  "
+                },
+                {
+                    "_name": "Competency",
+                    "_value": [
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "manage multiple projects"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "manage multiple projects"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "content development"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "content development"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Due Diligence"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "banking-finance"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Due Diligence"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Mergers & Acquisitions"
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Mergers & Acquisitions"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "banking-finance"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Mergers & Acquisitions",
+                                    "M&A",
+                                    "M&A"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "legal support"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "legal"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "legal support"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "verbal communication skills"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "verbal communication skills",
+                                    "verbal communication"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": true
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "Legal Advice"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "legal > prof-skills"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Legal Advice"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "auth",
+                                "_value": false
+                            },
+                            {
+                                "_name": "skillName",
+                                "_value": "M&A experience"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "M&A experience"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "_name": "PositionStatus",
+                    "_value": "Active"
+                },
+                {
+                    "_name": "MinExperienceYears",
+                    "_value": "2"
+                },
+                {
+                    "_name": "CompanyDescription",
+                    "_value": "\n   WebMD, an Internet Brands company,\n\n\n  "
+                }
+            ]
+        },
+        {
+            "_name": "jobDescription",
+            "_value": "\n   WebMD, an Internet Brands company, is seeking an Attorney with 2-3 years of experience. The position is a generalist role with exposure to multiple practice areas and will provide the Attorney with the opportunity to work with newly acquired companies in a dynamic growth environment. The successful candidate will have general corporate legal experience, specializing in commercial contracts. The Attorney must be confident and business-minded with a proven ability to manage multiple projects in a fast-paced environment.\n\nCore Areas of Responsibility:\n\nIn partnership with business line leaders, other corporate functions and legal team members:\n\n* Draft, review and negotiate a wide range of commercial contracts including customer agreements, professional services contracts, content development and license agreements, advertising technology contracts, data agreements and software and technology license agreements.\n\n* Assist with legal due diligence in connection with various domestic and international M&A activities and provide legal support for matters related to post-M&A integrations.\n\n* Advise internal clients on legal issues and risks relevant to WebMD's business, including online advertising.\n\n* Provide legal counsel and guidance on a broad range of privacy and regulatory matters.\n\n* Support the ongoing improvement of standard form agreements, policies and legal processes.\n\n* Perform other relevant duties as assigned.\n\nQualifications:\n\n* JD or equivalent with license in good standing to practice law in NY required.\n\n* 2-3 years relevant experience required.\n\n* Detail oriented with strong organizational, analytical, written, and verbal communication skills.\n\n* Knowledge of U.S. and internationalU.S. privacy and data protection laws and regulations (e.g., HIPAA, GDPR, CCPA) desired but not required.\n\n* Ability to think strategically and provide business-practical legal advice and solutions.\n\n* Ability to balance competing priorities in a high volume work environment.\n\n* Ability to work independently.\n\n-    Ideal candidate would be having around 2-3yrs of experience including the Bar experience\n\n-    Should have a valid Bar License\n\n-    Must haves:\n\no    Draft, review and negotiate a wide range of commercial contracts including customer agreements, professional services contracts, content development and license agreements, vendor agreements.\n\no    Due Diligience / M&A experience\n\n-    Knowledge of U.S. and internationalU.S. privacy and data protection laws and regulations (e.g., HIPAA, GDPR, CCPA) desired but not required. (Try keeping them as must in the first scrape, if the pool is low change them to ``important''\n\n-    Location - NYC\n\n  "
+        }
+    ]
+}

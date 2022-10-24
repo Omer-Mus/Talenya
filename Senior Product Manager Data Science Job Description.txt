@@ -1,0 +1,68 @@
+As a Senior Product Manager, you will define the vision and capabilities for Information Builders’ (IBI’s) products.  You will serve as the “CEO” of the products and features you are responsible for, with the mandate to deliver measurable value to our customers and drive profitable growth to the company.
+
+In this role, you will manage a “feature team” of engineers to design, build, and deliver your creations.  You will be a strong customer advocate and will guide the team through negotiating tradeoffs to determine the best path forward. You will interact with customers, engineers, UX designers and others to turn concepts and ideas into reality. 
+
+
+
+
+Your work will follow Agile practices, with a focus on delivering value to customers in small batches and iterating on the outcomes you measure.  The feature teams currently operate in two week sprints and perform demos and retrospectives at the end of each sprint.
+
+
+
+
+Responsibilities
+
+
+
+
+In three months, you would:
+
+
+
+Gain an understanding of the value proposition and technology for our full product
+suite 
+Speak to
+customers and internal stakeholders to gain a full scope of the product
+parameter space
+Generate
+user stories that reflect our customers’ needs
+Groom and
+manage a backlog of user stories
+Build relationships
+with engineering and other product teams
+
+
+In six months, you would:
+
+
+
+
+
+Develop a roadmap with your product vision for the next 12-18 months
+
+Coordinate efforts across multiple product and engineering teams to ensure product features are released on time
+
+
+
+
+In twelve months, you would:
+
+Increase team velocity by shaping processes and improving collaboration with engineers 
+Establish yourself as central player for all issues related to development and post go-live support
+Influence the roadmap by having a comprehensive understanding of the platform’s and business’ needs to identify opportunities for improvement based on our current setup
+
+
+Qualifications:
+
+
+
+Excellent communication and coordination skills both written and verbally 
+Minimum 5
+years’ experience as a Product Manager, Product Owner or Business Analyst for an agile team in a technology company
+Previous experience building machine learning tools and platforms, highly desired
+Understanding of statistical programming languages such as R or Python
+Good understanding of how business intelligence works
+Solid experience working with data; good understanding of SQL
+Strong analytical and problem solving skills
+Ability to work under pressure with a solid sense for setting priorities
+Excellent time management and a drive to get things done

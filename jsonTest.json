@@ -1,0 +1,92 @@
+{
+    "success": true,
+    "message": "Position processed successfully",
+    "result": [
+        {
+            "_name": "parsedPosition",
+            "_value": [
+                {
+                    "_name": "PositionTitle",
+                    "_value": "DB Specialist"
+                },
+                {
+                    "_name": "Competency",
+                    "_value": [
+                        [
+                            {
+                                "_name": "skillName",
+                                "_value": "Oracle"
+                            },
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Oracle"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "TaxonomyId",
+                                "_value": [
+                                    {
+                                        "_name": "idOwner",
+                                        "_value": "DAXTRA"
+                                    },
+                                    {
+                                        "_name": "description",
+                                        "_value": "it"
+                                    }
+                                ]
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "Liquibase"
+                                ]
+                            },
+                            {
+                                "_name": "description",
+                                "_value": "Skill > IT"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "skillName",
+                                "_value": "SQL"
+                            }
+                        ],
+                        [
+                            {
+                                "_name": "skillName",
+                                "_value": "UNIX"
+                            },
+                            {
+                                "_name": "skillAliasArray",
+                                "_value": [
+                                    "UNIX"
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}
